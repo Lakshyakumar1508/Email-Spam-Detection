@@ -51,4 +51,16 @@ This project is a **machine learning-based email classifier** that distinguishes
      - `"Limited-time offer on weight loss pills"`
      - `"Your resume is shortlisted for the AI internship"`
 
+## 📈 Evaluation
 
+- ✅ **Accuracy**: ~97–99%
+- 📚 **Classification Report** (              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       742
+           1       0.94      0.97      0.95       293
+
+    accuracy                           0.97      1035
+   macro avg       0.96      0.97      0.97      1035
+weighted avg       0.97      0.97      0.97      1035 )
+- 🔢 **Confusion Matrix**([[723,  19],
+        [ 10, 283]], dtype=int64))
