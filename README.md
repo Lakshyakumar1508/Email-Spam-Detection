@@ -66,4 +66,4 @@ This project is a **machine learning-based email classifier** that distinguishes
 
 - 🔢 **Confusion Matrix**(
 -       [[723,  19],
--     [ 10, 283]], dtype=int64))
+        [ 10, 283]], dtype=int64))
