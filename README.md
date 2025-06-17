@@ -53,7 +53,7 @@ This project is a **machine learning-based email classifier** that distinguishes
 
 ## 📈 Evaluation
 
-- ✅ **Accuracy**: ~97–99%
+- ✅ **Accuracy**: ~97.2%
 - 📚 **Classification Report** (
 -                               precision    recall  f1-score   support
 
